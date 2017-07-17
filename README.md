@@ -9,5 +9,5 @@ SCSS<br>
 gulp - запуск веб-сервера со слежением за изменением файлов<br>
 gulp clean - удаление папки build вместе с содержимым<br>
 gulp html - компиляция html<br>
-gulp css - компиляция css<br>
+gulp scss - компиляция css<br>
 gulp js - компиляция js<br>
